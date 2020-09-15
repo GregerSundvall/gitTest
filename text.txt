@@ -1,4 +1,4 @@
 Skriver lite text.
 Fortsätter med en (1) rad till.
 Nu händer det saker!
-Det här var också en ny rad.
+I själva verket skulle det vara denna rad.
