@@ -1,3 +1,4 @@
 Skriver lite text.
 Fortsätter med en (1) rad till.
 Nu händer det saker!
+Nu blev det en rad till.
